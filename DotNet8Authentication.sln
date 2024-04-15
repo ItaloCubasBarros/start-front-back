@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8Authentication", "DotNet8Authentication\DotNet8Authentication.csproj", "{104ABE92-080E-43F9-A745-A097C50E81DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactStart", "ReactStart\ReactStart.csproj", "{785C4B49-A641-4535-8D28-B085A29BF013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104ABE92-080E-43F9-A745-A097C50E81DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104ABE92-080E-43F9-A745-A097C50E81DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104ABE92-080E-43F9-A745-A097C50E81DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104ABE92-080E-43F9-A745-A097C50E81DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785C4B49-A641-4535-8D28-B085A29BF013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785C4B49-A641-4535-8D28-B085A29BF013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785C4B49-A641-4535-8D28-B085A29BF013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785C4B49-A641-4535-8D28-B085A29BF013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC64FA7-196A-46CD-AD88-907CB9D6AEB0}
+	EndGlobalSection
+EndGlobal

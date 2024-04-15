@@ -1,0 +1,14 @@
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\bin\Debug\net8.0\ReactStart.exe
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\bin\Debug\net8.0\ReactStart.deps.json
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\bin\Debug\net8.0\ReactStart.runtimeconfig.json
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\bin\Debug\net8.0\ReactStart.dll
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\bin\Debug\net8.0\ReactStart.pdb
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.AssemblyInfo.cs
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.dll
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\refint\ReactStart.dll
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.pdb
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ReactStart.genruntimeconfig.cache
+C:\Users\italo\source\repos\DotNet8Authentication\ReactStart\obj\Debug\net8.0\ref\ReactStart.dll
